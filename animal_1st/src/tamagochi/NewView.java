@@ -16,6 +16,7 @@ public class NewView {
 		int acc = 100; // 누적치
 		int act = 0; // 활동
 
+		
 		System.out.println("====================================================");
 		System.out.println("   ##     ##  ##    ####    ##   ##    ##     ##      ");
 		System.out.println("  ####    ### ##     ##     ### ###   ####    ##      ");
