@@ -20,7 +20,6 @@ public class RankVo {
 	}
 
 
-
 	public void setRa(int ra) {
 		this.ra = ra;
 	}
